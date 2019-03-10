@@ -738,7 +738,8 @@ footer {
     border: 1px solid #fff;
     width: 45%;
     min-height: 150px;
-    padding: 4%; }
+    padding: 4%;
+    font-size: smaller; }
 
   .feedback__contacts {
     margin-left: 0;
