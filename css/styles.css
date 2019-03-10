@@ -19,7 +19,7 @@ a:hover {
   justify-content: space-between; }
 
 .header {
-  background-image: url('/images/hero_imagebg.png');
+  background-image: url("/images/hero_imagebg.png");
   background-repeat: no-repeat;
   background-size: cover; }
 
