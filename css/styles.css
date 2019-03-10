@@ -635,9 +635,14 @@ footer {
 
   .social-links > p {
     display: none; } }
+
+    
 @media (max-width: 768px) {
+  .counter {
+    display: none; }
+
   .container {
-    padding: 0 40px; }
+    padding: 0 30px; }
 
   .header {
     padding: 0; }
@@ -682,7 +687,7 @@ footer {
     left: 0px; }
 
   .article__item:after {
-    content: url("https://Mmntmori.github.io/AkkauntTest/images/news_article_arrow-button.png");
+    content: url("/images/news_article_arrow-button.png");
     display: none;
     width: 30px;
     height: 30px;
@@ -708,7 +713,23 @@ footer {
     position: relative; }
 
   .footer__bottom {
-    justify-content: center; }
+    justify-content: center;
+    margin: 0; }
+
+  .navigation-bottom {
+    margin: 0; }
+
+  .navigation-bottom__link {
+    margin: 0px 5px;
+    padding: 10px 5px;
+    color: white; }
+
+  .navigation-bottom__link:hover {
+    margin: 0px 5px;
+    padding: 10px 5px;
+    color: white;
+    text-decoration: none;
+    color: #e6d4be; }
 
   .article__item {
     display: flex;
@@ -739,6 +760,18 @@ footer {
     margin-bottom: -30px; }
 
   .review-block__arrows {
-    margin: 0; } }
+    margin: 0; }
+
+  .navigation-top__link {
+    margin: 0px 5px;
+    padding: 10px 5px;
+    color: white; }
+
+  .advantages-main > h2 {
+    display: none; }
+
+  .navigation-bottom__link,
+  .navigation-top__link {
+    font-size: 14px; } }
 
 /*# sourceMappingURL=styles.css.map */
