@@ -739,6 +739,10 @@ footer {
     margin-bottom: -30px; }
 
   .review-block__arrows {
-    margin: 0; } }
+    margin: 0; } 
+
+
+  .advantages-main > h2 {
+    display: none;} }
 
 /*# sourceMappingURL=styles.css.map */
