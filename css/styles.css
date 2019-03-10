@@ -127,7 +127,7 @@ a:hover {
   border-right: 0px solid black; }
 
 .services-item__text:after {
-  content: url("https://mmntmori.github.io/AkkauntTest/images/services_arrow_right.png");
+  content: url("https://Mmntmori.github.io/AkkauntTest/images/services_arrow_right.png");
   margin-left: 20px; }
 
 .about-company {
@@ -215,7 +215,7 @@ a:hover {
 
 .crew {
   padding: 90px 0 58px;
-  background-image: url("https://mmntmori.github.io/AkkauntTest/images/crew_bc.png");
+  background-image: url("https://Mmntmori.github.io/AkkauntTest/images/crew_bc.png");
   background-position: 10% 80%;
   background-repeat: no-repeat; }
 
@@ -284,37 +284,37 @@ a:hover {
 
 .left-arrow {
   background-color: transparent;
-  background-image: url("https://mmntmori.github.io/AkkauntTest/images/arrows_arrow_disable-left.png");
+  background-image: url("https://Mmntmori.github.io/AkkauntTest/images/arrows_arrow_disable-left.png");
   background-repeat: no-repeat;
   background-position: 50% 50%; }
 
 .right-arrow {
   background-color: transparent;
-  background-image: url("https://mmntmori.github.io/AkkauntTest/images/arrows_arrow_disable-right.png");
+  background-image: url("https://Mmntmori.github.io/AkkauntTest/images/arrows_arrow_disable-right.png");
   background-repeat: no-repeat;
   background-position: 50% 50%; }
 
 .left-arrow:hover {
   background-color: #c19a64;
-  background-image: url("https://mmntmori.github.io/AkkauntTest/images/arrows_arrow_active-left.png");
+  background-image: url("https://Mmntmori.github.io/AkkauntTest/images/arrows_arrow_active-left.png");
   background-repeat: no-repeat;
   background-position: 50% 50%; }
 
 .right-arrow:hover {
   background-color: #c19a64;
-  background-image: url("https://mmntmori.github.io/AkkauntTest/images/arrows_arrow_active-right.png");
+  background-image: url("https://Mmntmori.github.io/AkkauntTest/images/arrows_arrow_active-right.png");
   background-repeat: no-repeat;
   background-position: 50% 50%; }
 
 .left-arrow--active {
   background-color: #c19a64;
-  background-image: url("https://mmntmori.github.io/AkkauntTest/images/arrows_arrow_active-left.png");
+  background-image: url("https://Mmntmori.github.io/AkkauntTest/images/arrows_arrow_active-left.png");
   background-repeat: no-repeat;
   background-position: 50% 50%; }
 
 .right-arrow--active {
   background-color: #c19a64;
-  background-image: url("https://mmntmori.github.io/AkkauntTest/images/arrows_arrow_active-right.png");
+  background-image: url("https://Mmntmori.github.io/AkkauntTest/images/arrows_arrow_active-right.png");
   background-repeat: no-repeat;
   background-position: 50% 50%; }
 
@@ -330,7 +330,7 @@ a:hover {
   margin-top: 15px; }
 
 .news {
-  background-image: url("https://mmntmori.github.io/AkkauntTest/images/news_bg.png");
+  background-image: url("https://Mmntmori.github.io/AkkauntTest/images/news_bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #555555; }
@@ -383,10 +383,10 @@ a:hover {
   font-size: 14px; }
 
 .article__item:hover:after {
-  content: url("https://mmntmori.github.io/AkkauntTest/images/news_article_arrow-button-active.png"); }
+  content: url("https://Mmntmori.github.io/AkkauntTest/images/news_article_arrow-button-active.png"); }
 
 .article__item:after {
-  content: url("https://mmntmori.github.io/AkkauntTest/images/news_article_arrow-button.png");
+  content: url("https://Mmntmori.github.io/AkkauntTest/images/news_article_arrow-button.png");
   display: block;
   width: 30px;
   height: 30px;
@@ -396,7 +396,7 @@ a:hover {
 
 .review {
   padding: 110px 0 70px;
-  background-image: url("https://mmntmori.github.io/AkkauntTest/images/review_logo_bc.png");
+  background-image: url("https://Mmntmori.github.io/AkkauntTest/images/review_logo_bc.png");
   background-repeat: no-repeat;
   background-position: 85% 70%; }
 
@@ -558,7 +558,7 @@ footer {
     display: none; }
 
   .article__item:after {
-    content: url("https://mmntmori.github.io/AkkauntTest/images/news_article_arrow-button.png");
+    content: url("https://Mmntmori.github.io/AkkauntTest/images/news_article_arrow-button.png");
     display: block;
     width: 30px;
     height: 30px;
@@ -599,12 +599,12 @@ footer {
 
   .crew {
     padding: 90px 0;
-    background-image: url("https://mmntmori.github.io/AkkauntTest/images/_crew_bc.png");
+    background-image: url("https://Mmntmori.github.io/AkkauntTest/images/_crew_bc.png");
     background-position: 10% 35%;
     background-repeat: no-repeat; }
 
   .article__item:after {
-    content: url("https://mmntmori.github.io/AkkauntTest/images/news_article_arrow-button.png");
+    content: url("https://Mmntmori.github.io/AkkauntTest/images/news_article_arrow-button.png");
     display: block;
     width: 30px;
     height: 30px;
@@ -666,7 +666,7 @@ footer {
     left: 0px; }
 
   .article__item:after {
-    content: url("https://mmntmori.github.io/AkkauntTest/images/news_article_arrow-button.png");
+    content: url("https://Mmntmori.github.io/AkkauntTest/images/news_article_arrow-button.png");
     display: block;
     width: 30px;
     height: 30px;
