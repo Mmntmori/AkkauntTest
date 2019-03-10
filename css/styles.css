@@ -19,7 +19,7 @@ a:hover {
   justify-content: space-between; }
 
 .header {
-  background-image: url("/AkkauntTest/images/hero_imagebg.png");
+  background-image: url(/AkkauntTest/images/hero_imagebg.png);
   background-repeat: no-repeat;
   background-size: cover; }
 
@@ -127,7 +127,7 @@ a:hover {
   border-right: 0px solid black; }
 
 .services-item__text:after {
-  content: url("/AkkauntTest/images/services_arrow_right.png");
+  content: url(/AkkauntTest/images/services_arrow_right.png);
   margin-left: 20px; }
 
 .about-company {
@@ -215,7 +215,7 @@ a:hover {
 
 .crew {
   padding: 90px 0 58px;
-  background-image: url("/AkkauntTest/images/crew_bc.png");
+  background-image: url(/AkkauntTest/images/crew_bc.png);
   background-position: 10% 80%;
   background-repeat: no-repeat; }
 
