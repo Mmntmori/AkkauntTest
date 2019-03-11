@@ -283,7 +283,8 @@ a:hover {
 .arrows__arrow {
   width: 30px;
   height: 30px;
-  display: flex; }
+  display: flex;
+  border: none;}
 
 .left-arrow {
   background-color: transparent;
@@ -404,6 +405,9 @@ a:hover {
   background-image: url("https://Mmntmori.github.io/AkkauntTest/images/review_logo_bc.png");
   background-repeat: no-repeat;
   background-position: 85% 70%; }
+
+.hidden {
+  display: none !important; }
 
 .review-block > h1 {
   font-family: "Proxima Nova";
